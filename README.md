@@ -1,6 +1,6 @@
 ## Implementation of Neural Network, Support Vector Machine, and Decision Tree in C++
 
-This is an assignment for the Advanced Artificial intelligence course. The required is to implement neural network (NN), support vector machine (SVM), and Decision tree (DT) algorithms in C++. 
+This is an assignment for the Advanced Artificial intelligence course (CS762). The required is to implement neural network (NN), support vector machine (SVM), and Decision tree (DT) algorithms in C++. 
 For NN & DT we must implement from scratch. 
 
 The goal is to understand the basics of these algorithms. Notice that this implementation is the basic to understand the idea of each algorithm. Maybe it’s not efficient enough, but it’s a good start and can be improved; especially most available codes for these algorithms are in Python and rare using C++.
