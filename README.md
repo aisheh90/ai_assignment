@@ -5,6 +5,13 @@ For NN & DT we must implement from scratch.
 
 The goal is to understand the basics of these algorithms. Notice that this implementation is the basic to understand the idea of each algorithm. Maybe it’s not efficient enough, but it’s a good start and can be improved; especially most available codes for these algorithms are in Python and rare using C++.
 
+
+### Data
+The two datasets we're considering are:
+- Dataset1(Small Dataset): https://archive.ics.uci.edu/ml/datasets/Mesothelioma%C3%A2%E2%82%AC%E2%84%A2s+disease+data+set+
+- Dataset2(Large Dataset): https://archive.ics.uci.edu/ml/datasets/Diabetic+Retinopathy+Debrecen+Data+Set
+
+
 ### Requirements:
 - Visual Studio 2017
 -	OpenCV 
